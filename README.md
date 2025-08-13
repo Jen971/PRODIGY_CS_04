@@ -45,5 +45,10 @@ Do not use on machines without explicit permission.
 (uploaded inside folder named demo video folder)
 
 ## SCREENSHOT ##
+https://github.com/Jen971/PRODIGY_CS_04/blob/190d4976edaaef381179529de79f57bcfd0fda3b/Task4(1).png
+
+https://github.com/Jen971/PRODIGY_CS_04/blob/190d4976edaaef381179529de79f57bcfd0fda3b/TASK4(2).png
+
+https://github.com/Jen971/PRODIGY_CS_04/blob/190d4976edaaef381179529de79f57bcfd0fda3b/TASK4(3).png
 
 
